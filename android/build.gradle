@@ -1,5 +1,6 @@
 group 'fr.skyost.rate_my_app'
 version '1.1.4'
+namespace 'com.example.rate_my_app'
 
 buildscript {
     ext.kotlin_version = '1.6.0'
